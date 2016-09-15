@@ -8,6 +8,7 @@ sources = [
     'http://winhelp2002.mvps.org/hosts.txt',
 ]
 
+# windows 10 telemetry 
 custom_source = [
     'statsfe2.update.microsoft.com.akadns.net',
     'fe2.update.microsoft.com.akadns.net',
